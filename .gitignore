@@ -1,0 +1,7 @@
+build/*
+hdbscan/*.pyc
+hdbscan/__pycache__/*
+dist/*
+*egg-info
+notebooks/.ipynb_checkpoints/*
+
